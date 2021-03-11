@@ -56,7 +56,7 @@
 				<artifactId>dockerfile-maven-plugin</artifactId>
 				<version>1.3.4</version>
 				<configuration>
-					<repository>${docker.image.prefix}/${project.artifactId}</repository>
+					<repository>gitanjali476/hello-docker</repository>
 				</configuration>
 			</plugin>
 			<plugin>
